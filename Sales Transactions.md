@@ -572,7 +572,7 @@ plt.show()
     
 
 
-The bar graph indicates that total sales didn't fluctuate greatly over the course of the year with minor dips belwo average for the months of January and feburary which can be accounted for as a being a time were people tend to recouperate after the december period
+The bar graph indicates that total sales didn't fluctuate greatly over the course of the year with minor dips below average for the months of January and February. These dips can be accounted for as being a time when people tend to recuperate after the December period, as well as adjust to the new year's financial constraints and resolutions. Additionally, there is a noticeable increase in the months of September, October, and November, possibly due to seasonal factors or promotional events. Interestingly, there is a significant drop in total sales in the month of December, falling below the monthly average, which could be attributed to reduced spending after the holiday season or other year-end factors.
 
 
 ```python
